@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "How Clean Water Changes Rural Communities",
+        "slug": "clean-water-changes-communities",
+        "category": "Water",
+        "author": "Admin",
+        "date": "2026-05-01",
+        "readTime": "5 min read",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+        "excerpt": "Access to clean drinking water improves health, education, and economic growth in rural communities.",
+        "description": "Clean water is one of the most basic human needs, yet millions of people around the world still struggle to access safe drinking water. In rural communities, clean water projects can completely transform daily life. Families no longer need to walk miles to collect water, children can attend school regularly, and diseases caused by contaminated water decrease significantly. Donations and awareness programs help organizations install wells, filtration systems, and water storage facilities. Together, we can build a healthier future for everyone."
+    },
+    {
+        "id": 2,
+        "title": "Education Support for Underprivileged Children",
+        "slug": "education-support-children",
+        "category": "Education",
+        "author": "HopeAid Team",
+        "date": "2026-05-03",
+        "readTime": "4 min read",
+        "image": "https://images.unsplash.com/photo-1509062522246-3755977927d7",
+        "excerpt": "Providing quality education helps children build a brighter and more secure future.",
+        "description": "Education is the foundation of opportunity and growth. Many underprivileged children lack access to books, schools, and proper learning environments. Donation campaigns focused on education provide school supplies, scholarships, uniforms, and digital learning tools. Volunteers and nonprofit organizations also create community learning centers where children can study safely. By supporting educational initiatives, donors contribute to breaking the cycle of poverty and empowering future generations."
+    },
+    {
+        "id": 3,
+        "title": "Food Donation Campaigns Saving Lives",
+        "slug": "food-donation-campaigns",
+        "category": "Food",
+        "author": "Sarah Ahmed",
+        "date": "2026-05-05",
+        "readTime": "6 min read",
+        "image": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c",
+        "excerpt": "Food donation programs help thousands of families survive during difficult times.",
+        "description": "Food insecurity affects millions of people every day. Community food donation programs distribute essential meals and groceries to struggling families, disaster victims, and homeless individuals. Through online fundraising and volunteer support, organizations can prepare food packages and organize meal distribution events. Small donations from many people create a huge impact. Every meal provided brings hope and relief to someone in need."
+    },
+    {
+        "id": 4,
+        "title": "Medical Aid for Low-Income Families",
+        "slug": "medical-aid-low-income",
+        "category": "Medical",
+        "author": "Dr. Rahim",
+        "date": "2026-05-08",
+        "readTime": "7 min read",
+        "image": "https://images.unsplash.com/photo-1584515933487-779824d29309",
+        "excerpt": "Healthcare support ensures treatment and medicines reach vulnerable communities.",
+        "description": "Healthcare costs can be overwhelming for low-income families. Medical donation campaigns provide financial assistance for surgeries, medicines, emergency treatments, and hospital care. Nonprofit organizations collaborate with hospitals and volunteers to offer free health checkups and awareness programs. Donor contributions save lives by ensuring that patients receive the treatment they urgently need. Accessible healthcare creates stronger and healthier communities."
+    },
+    {
+        "id": 5,
+        "title": "How Volunteers Create Real Impact",
+        "slug": "volunteers-create-impact",
+        "category": "Community",
+        "author": "Volunteer Team",
+        "date": "2026-05-10",
+        "readTime": "5 min read",
+        "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f",
+        "excerpt": "Volunteers play a vital role in donation programs and social impact projects.",
+        "description": "Behind every successful nonprofit project are dedicated volunteers who give their time and energy to help others. Volunteers assist in organizing donation drives, distributing aid, teaching children, and supporting disaster relief efforts. Their commitment strengthens communities and inspires others to participate. Even a few hours of volunteer work can make a meaningful difference in someone’s life."
+    },
+    {
+        "id": 6,
+        "title": "The Importance of Monthly Donations",
+        "slug": "importance-monthly-donations",
+        "category": "Donations",
+        "author": "HopeAid",
+        "date": "2026-05-12",
+        "readTime": "4 min read",
+        "image": "https://images.unsplash.com/photo-1556740749-887f6717d7e4",
+        "excerpt": "Monthly donors help organizations maintain sustainable long-term support programs.",
+        "description": "One-time donations are valuable, but recurring monthly donations allow nonprofit organizations to plan and sustain long-term projects effectively. Consistent funding helps charities manage educational programs, food support initiatives, medical aid, and emergency responses without interruption. Monthly donors become long-term partners in social change and help create lasting impact for communities in need."
+    }
+]
