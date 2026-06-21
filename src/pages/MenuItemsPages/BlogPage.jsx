@@ -64,24 +64,19 @@ const BlogPage = () => {
                                             className="h-40 w-full object-cover"
                                         />
                                     )}
-
                                     <div className="p-4">
                                         <h2 className="text-black text-xl font-semibold">
                                             {blog.title}
                                         </h2>
-
                                         <p className="text-gray-600 mt-2 text-sm">
                                             {blog.description}
                                         </p>
                                     </div>
                                 </div>
                             ))}
-
                         </div>
                     )}
-
                 </div>
-
             </section>
         </PageContainer>
     );
