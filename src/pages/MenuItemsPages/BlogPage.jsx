@@ -35,7 +35,6 @@ const BlogPage = () => {
                         <h1 className="text-4xl md:text-5xl font-bold">
                             Our Blog
                         </h1>
-
                         <p className="mt-4 text-sm md:text-lg max-w-2xl text-gray-200">
                             Explore insights, stories, and updates from Hopeaid. Stay informed with our latest articles and news.
                         </p>

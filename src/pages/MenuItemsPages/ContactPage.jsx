@@ -11,7 +11,6 @@ const ContactPage = () => {
                     <h1 className="text-4xl md:text-5xl font-bold leading-tight">
                         Contact <span className="text-green-500">Us</span>
                     </h1>
-
                     <p className="text-gray-600 dark:text-gray-300 mt-2">
                         Have questions? We’re here to help you anytime.
                     </p>
