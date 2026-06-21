@@ -48,11 +48,9 @@ const HowItWorksPage = () => {
 
                 {/* heading */}
                 <div className="text-center max-w-3xl mx-auto mb-16">
-
                     <h1 className="text-4xl md:text-5xl font-bold leading-tight">
                         How It <span className="text-green-500">Works</span>
                     </h1>
-
                     <p className="text-gray-400 mt-5 leading-8">
                         Our donation process is simple, secure, and transparent.
                         Follow these easy steps to make a meaningful impact in
@@ -92,9 +90,7 @@ const HowItWorksPage = () => {
                             </div>
                         ))
                     }
-
                 </div>
-
             </section>
         </PageContainer>
     );
