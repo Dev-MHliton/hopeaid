@@ -324,7 +324,7 @@ const AboutUsPage = () => {
                         through secure and impactful donations.
                     </p>
 
-                    <Link className="btn bg-white text-green-600 hover:bg-gray-100 border-none mt-8">
+                    <Link to={"/login"} className="btn bg-white text-green-600 hover:bg-gray-100 border-none mt-8">
                         Start Donating
                         <ArrowRight className="w-5 h-5" />
                     </Link>
