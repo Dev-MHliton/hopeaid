@@ -16,7 +16,6 @@ const BlogPage = () => {
     return (
         <PageContainer>
             <section>
-
                 <div className="relative h-[320px] md:h-[420px] w-full rounded-2xl overflow-hidden">
 
                     {/* Background Image */}
