@@ -5,7 +5,7 @@ const PopularCauses = () => {
     const [causes, setCauses] = useState([]);
 
     useEffect(() => {
-        fetch("/causes.json")
+        fetch("/data/causes.json")
             .then(res => res.json())
             .then(data => setCauses(data));
     }, []);
