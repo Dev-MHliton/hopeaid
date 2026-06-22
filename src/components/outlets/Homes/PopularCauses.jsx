@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import SectionTitle from "../../SectionTitle/SectionTitle";
+import { Link } from "react-router-dom";
 
 const PopularCauses = () => {
     const [causes, setCauses] = useState([]);
@@ -58,9 +59,9 @@ const PopularCauses = () => {
                                     max="100"
                                 ></progress>
 
-                                <button className="btn btn-outline w-full mt-4">
+                                <Link to={"/login"}><button className="btn btn-outline w-full mt-4">
                                     Donate Now
-                                </button>
+                                </button></Link>
                             </div>
                         </div>
                     );
