@@ -27,7 +27,7 @@ const PopularCauses = () => {
                     return (
                         <div
                             key={cause.id}
-                            className="bg-white rounded-xl border shadow-sm overflow-hidden"
+                            className="bg-black rounded-xl border shadow-sm overflow-hidden"
                         >
                             <img
                                 src={cause.image}
