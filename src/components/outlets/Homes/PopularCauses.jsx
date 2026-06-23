@@ -15,6 +15,8 @@ const PopularCauses = () => {
         <section className="py-16">
             <SectionTitle heading={"Popular Causes"} />
 
+
+            {/* Main part  */}
             <div
                 id="Causes"
                 className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mt-12"
