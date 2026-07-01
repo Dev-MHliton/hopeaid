@@ -1,9 +1,17 @@
+import { AuthContext } from "../context/AuthContext";
 
-const AuthProvider = () => {
+const AuthProvider = ({ children }) => {
+
+    // const authInfo = {
+    //     user,
+    //     login,
+    //     logout,
+    // };
+
     return (
-        <div>
-
-        </div>
+        <AuthContext.Provider value={authInfo}>
+            {children}
+        </AuthContext.Provider>
     );
 };
 

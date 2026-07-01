@@ -12,6 +12,7 @@ const queryClient = new QueryClient();
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
+    {/* From api server data manage just only QueryClientProvider */}
     <QueryClientProvider client={queryClient}>
       <AuthProvider>
         <RouterProvider router={Router} />
