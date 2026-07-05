@@ -1,9 +1,9 @@
 
 const Secure = () => {
     return (
-        <div>
+        <>
 
-        </div>
+        </>
     );
 };
 
