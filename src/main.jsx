@@ -13,7 +13,6 @@ createRoot(document.getElementById('root')).render(
   <StrictMode>
     {/* From api server data manage just only QueryClientProvider */}
     <QueryClientProvider client={queryClient}>
-
       <RouterProvider router={Router} />
     </QueryClientProvider>
   </StrictMode>,
