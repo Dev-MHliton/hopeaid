@@ -28,7 +28,7 @@ export const Router = createBrowserRouter([
         ]
     },
 
-    // Authentication 
+    // Authentication System
     {
         path: "/",
         element: <Authentication />,
@@ -38,6 +38,6 @@ export const Router = createBrowserRouter([
         ]
     },
 
-    // Error 
+    // Error path
     { path: "*", element: <Error /> }
 ])
