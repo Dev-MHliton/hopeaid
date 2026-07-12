@@ -1,6 +1,6 @@
 import { createBrowserRouter } from "react-router-dom";
 
-// Routes link 
+// Imports Routes link 
 import Main from "../../layouts/Mainlayouts/Main";
 import Home from "../../pages/Homepage/Home";
 import Error from "../../pages/Errorpage/Error";
@@ -12,10 +12,10 @@ import AboutUsPage from "../../pages/MenuItemsPages/AboutUsPage";
 import Signup from "../../pages/AuthenticationPages/Signup";
 import ContactPage from "../../pages/MenuItemsPages/ContactPage";
 
-// export 
+
 export const Router = createBrowserRouter([
 
-    // Home 
+    // Home paths
     {
         path: "/",
         element: <Main />,
