@@ -2,7 +2,6 @@ import bannerImage from "../../../assets/Banner-bg/Banner-image.png"
 import bannerBG from "../../../assets/Banner-bg/Banner-bg.png"
 import { Link } from "react-router-dom";
 
-
 const Banner = () => {
     return (
         <section className="relative px-4 md:px-10 overflow-hidden">
