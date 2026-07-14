@@ -47,9 +47,11 @@ const Footer = () => {
                         </a>
                     </div>
                 </nav>
+
                 <aside>
                     <p>Copyright © {new Date().getFullYear()} - Hopeaid. Spreading Hope, Changing Lives.</p>
                 </aside>
+
             </footer>
         </section>
     );
